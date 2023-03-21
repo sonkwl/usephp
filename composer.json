@@ -1,0 +1,9 @@
+{
+    "name": "sonkwl/usephp",
+    "description": "sonkwl php framework",
+    "autoload": {
+        "psr-4": {
+            "Sonkwl\\UsePHP\\": "src/"
+        }
+    }
+}
