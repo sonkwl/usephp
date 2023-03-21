@@ -1,10 +1,16 @@
 {
     "name": "sonkwl/usephp",
-    "description": "sonkwl php framework",
+    "type": "library",
     "autoload": {
         "psr-4": {
-            "Sonkwl\\UsePHP\\": "src/"
+            "Sonkwl\\Usephp\\": "src/"
         }
     },
-    "minimum-stability":"stable"
+    "authors": [
+        {
+            "name": "sonkwl",
+            "email": "sonkwl@163.com"
+        }
+    ],
+    "require": {}
 }
