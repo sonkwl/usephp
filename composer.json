@@ -12,5 +12,7 @@
             "email": "sonkwl@163.com"
         }
     ],
-    "require": {}
+    "require": {
+         "sonkwl/usephp":"dev-master"
+    }
 }
