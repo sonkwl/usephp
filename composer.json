@@ -3,7 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Sonkwl\\Usephp\\": "src/"
+            "Sonkwl\\UsePHP\\": "src/"
         }
     },
     "authors": [
