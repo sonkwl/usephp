@@ -11,8 +11,5 @@
             "name": "sonkwl",
             "email": "sonkwl@163.com"
         }
-    ],
-    "require": {
-         "sonkwl/usephp":"dev-master"
-    }
+    ]
 }
